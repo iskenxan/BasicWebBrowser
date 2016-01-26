@@ -1,0 +1,16 @@
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Bookmarks.mdf
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Bookmarks_log.ldf
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Web Browser.exe.manifest
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\bin\Debug\Web Browser.application
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web Browser.exe.manifest
+L:\Visual Basics Class\Final Project\Web Browser\Web Browser\obj\Debug\Web Browser.application
